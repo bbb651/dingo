@@ -1,10 +1,10 @@
 [Desktop Entry]
-Name={{APP_NAME}}
-Exec={{APP_BINARY}} %F
+Name=Dingo
+Exec=dingo %F
 Terminal=false
 Type=Application
 StartupNotify=true
-Icon={{APP_ID}}
+Icon=dingo
 Categories=COSMIC;
 Keywords=
 MimeType=

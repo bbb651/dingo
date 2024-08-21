@@ -1,5 +1,5 @@
-name := 'cosmic-app-template'
-appid := 'com.example.CosmicAppTemplate'
+name := 'dingo'
+appid := 'io.github.bbb651.Dingo'
 
 rootdir := ''
 prefix := '/usr'
